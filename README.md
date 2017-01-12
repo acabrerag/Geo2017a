@@ -1,7 +1,6 @@
 ### Información General.
 + Profesor: Alain Antonio Cabrera Gonzalez
-+ Correo electrónico: m.gs9989@gmail.com
-+ Coordinador: Dr. Edgar Possani.
++ Correo electrónico: acabreraglz@gmail.com
 
 ### Canales de Comunicación:
 + Utilizaremos [Slack](https://slack.com/) como medio oficial de comunicación.
@@ -9,12 +8,6 @@
 + Por este medio se darán avisos oficiales y se podrá utilizar como foro para dudas, etc.
 + Enviaré una invitación a su mail personal los primeros días del curso.
 + Podrán acceder a Slack desde cualquier navegador, además de las distintas Apps que existen tanto para laptop como para smartphone.
-
-### Sobre el curso:
-+ El material de este curso será de mucha utilidad para sus cursos de Economía, Estadística, Opinión Pública, Finanzas, etc.
-+ En este curso se estudian los bloques básicos que constituyen muchos de los modelos matemáticos que se utilizan en la realidad en las áreas arriba mencionadas.
-+ Aunque es un curso principalmente *operativo* me interesa que se cubran aplicaciones interesantes, e.g. aplicaciones a finanzas, estadística, inteligencia artificial, etc.
-+ Además, el aprender a razonar de manera ordenada y lógica es una habilidad de mucho valor aunque no se dediquen per-se a las matemáticas o la estadística.
 
 ### Contenido:
 + El temario oficial lo podemos encontrar [aquí](Temario.pdf)
