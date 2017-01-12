@@ -14,10 +14,13 @@
 + Fundamental hacer muchos ejercicios, es la única manera de entender.
 
 ### Evaluación:
-+ Examen Parcial 1 *escrito*:30% (Martes 7 de febrero)
++ Examen Parcial 1 *escrito*:30% (Martes 28 de febrero)
 + Examen Parcial 2 *oral*: 20% (Martes 25 de abril, sujeta a cambios)
 + Examen Parcial 3 *tarea*: 30% (por definir)
 + Examen Final *opción múltiple*: 20% (por definir)
+
+### Puntos extra:
++ 10% de la calificación final, es decir, pueden sacar 11 de calificación. La temática de los puntos extras será definida en clase.
 
 ### Reglas generales:
 + Lo evidente: no copiar. 
