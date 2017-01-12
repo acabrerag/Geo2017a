@@ -11,22 +11,12 @@
 
 ### Contenido:
 + El temario oficial lo podemos encontrar [aquí](Temario.pdf)
-+ Es un curso de geometría plana. 
-+ Es un curso relativamente sencillo, pero es mucho material en el temario, por lo que estaremos muy justos de tiempo.
 + Fundamental hacer muchos ejercicios, es la única manera de entender.
 
-### Tareas: 
-+ Una por examen parcial.
-+ Revisaré algunas de manera aleatoria.
-+ Uno de los objetivos de las tareas es que aprendan a escribir matemáticas correctamente, lo cual será evaluado en los exámenes. Son ustedes quienes deben convencerme de que saben, no es mi obligación *descifrar* lo que escriban.
-+ Existe un cuaderno de ejercicios elaborado por el Departamento, el cual podemos encontrar [aquí](Tareas/Cuaderno_Ejercicios.pdf)
-+ Además, en la carpeta Tareas subiré un archivo semanal con los ejercicios a entregar.
-
 ### Evaluación:
-+ Examen Parcial 1 *escrito*: 20% (Martes 7 de febrero)
-+ Examen Parcial 2 *escrito*: 20% (Martes 7 de marzo
-+ Examen Parcial 3 *oral*: 20% (Martes 25 de abril, sujeta a cambios)
-+ Examen Parcial 4 *tarea*: 20% (por definir)
++ Examen Parcial 1 *escrito*:30% (Martes 7 de febrero)
++ Examen Parcial 2 *oral*: 20% (Martes 25 de abril, sujeta a cambios)
++ Examen Parcial 3 *tarea*: 30% (por definir)
 + Examen Final *opción múltiple*: 20% (por definir)
 
 ### Reglas generales:
