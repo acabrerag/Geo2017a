@@ -20,7 +20,9 @@
 + Examen Final *opción múltiple*: 20% (por definir)
 
 ### Puntos extra:
-+ 10% de la calificación final, es decir, pueden sacar 11 de calificación. La temática de los puntos extras será definida en clase.
++ Equivaldrán al 10% de la calificación final, es decir, pueden sacar 11 de calificación. 
++ Se realizarán preguntas junto a los exámenes parciales.
++ La temática de las preguntas será definida en clase.
 
 ### Reglas generales:
 + Lo evidente: no copiar. 
@@ -30,5 +32,5 @@
 + Hacer cuentas muy fríamente antes de bajas. Prohibido jugar la carta de la beca.
 
 ### Referencias
-+*Geometría Analítica Moderna*,Wooton, W., Beckenbach, E.F., Fleming, F.J.Publicaciones Cultural, S.A. de C.V., 3a. edición, 1985.
-+*Geometría Analítica*,Lehmann, Charles H. (tr. Rafael García Díaz) Editorial Limusa, México, 2011.
++ *Geometría Analítica Moderna*,Wooton, W., Beckenbach, E.F., Fleming, F.J.Publicaciones Cultural, S.A. de C.V., 3a. edición, 1985.
++ *Geometría Analítica*,Lehmann, Charles H. (tr. Rafael García Díaz) Editorial Limusa, México, 2011.
