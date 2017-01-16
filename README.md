@@ -20,16 +20,15 @@
 + Examen Final *opción múltiple*: 20% (por definir)
 
 ### Puntos extra:
-+ Equivaldrán al 10% de la calificación final, es decir, pueden sacar 11 de calificación. 
++ Equivaldrán al 10% sumado directamente a la calificación final, es decir, pueden sacar 11 de calificación. 
 + Se realizarán preguntas junto a los exámenes parciales.
 + La temática de las preguntas será definida en clase.
 
 ### Reglas generales:
-+ Lo evidente: no copiar. 
++ No copiar. 
 + No es necesario acreditar el examen final.
 + No hay exámenes especiales ni reposiciones, salvo casos de fuerza mayor (hospitalizaciones, etc.)
 + Nadie aprueba por arte de magia, se requiere esfuerzo constante; i.e. un final de 10 no aprueba automáticamente la materia si el promedio dice otra cosa.
-+ Hacer cuentas muy fríamente antes de bajas. Prohibido jugar la carta de la beca.
 
 ### Referencias
 + *Geometría Analítica Moderna*,Wooton, W., Beckenbach, E.F., Fleming, F.J.Publicaciones Cultural, S.A. de C.V., 3a. edición, 1985.
